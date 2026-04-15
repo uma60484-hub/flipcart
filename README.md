@@ -1,2 +1,0 @@
-# flipcart
-html java script
